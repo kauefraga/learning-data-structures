@@ -8,7 +8,7 @@ Você pode encontrar o código das estruturas em [`estruturas-de-dados`](estrutu
 
 - O que é uma estrutura de dado?
 
-> Uma estrutura de dado é uma maneira em que os dados são organizados para serem salvos e recuperados. Tipo, você dobra suas roupas e as coloca no guarda-roupas de maneira que você ache elas facilmente depois... Ou, pelo menos, deveria 😅🤭...
+> Uma estrutura de dado é uma maneira em que os dados são organizados para serem salvos, recuperados e manipulados. Tipo, você dobra suas roupas e as coloca no guarda-roupas de maneira que você ache elas facilmente depois... Ou, pelo menos, deveria 😅🤭...
 
 - O que é um algoritmo e por que está intimamente relacionado com as estruturas de dados?
 
@@ -19,11 +19,20 @@ Você pode encontrar o código das estruturas em [`estruturas-de-dados`](estrutu
 
 - Estruturas de dados primitivas e não-primitivas
 
-> Existem estruturas de dados primitivas, aquelas que a maioria das linguagens de programação têm, como: _integers_ para armazenar inteiros, _floats_ ou _doubles_ para armazenar decimais, _strings_ para armazenar sequências de caracteres, _booleans_ para armazenar dois estados (verdadeiro ou falso), etc.
+> Existem estruturas de dados primitivas, aquelas que todas as linguagens de programação têm, como: _integers_ para armazenar inteiros, _floats_ ou _doubles_ para armazenar decimais, _strings_ para armazenar sequências de caracteres e _booleans_ para armazenar dois estados (verdadeiro ou falso). Existem também as estruturas não-primitivas que geralmente são definidas pelos usuários e servem para organizar valores de múltiplos tipos, como: arrays (a maioria das linguagens têm), fila (_queue_), pilha (_stack_), árvore (_tree_), grafo (_graph_) e lista conectada (_linked list_).
+
+> [!NOTE]
+> As estruturas primitivas e não-primitivas podem variar um pouco, por exemplo: em C não existe a estrutura String mas existe o Char (carácter) e o Array (arranjo, sequência), e com eles tu pode implementar uma espécie de String (sequência de caracteres ou array de chars). Então em C, String é uma estrutura não-primitiva enquanto Char e Array são primitivas.
 
 ## 💖 Agradecimentos
 
 Se chegou até aqui, muito obrigado! Decidi criar este repositório com o intuito de expor o que sei/aprendi sobre estruturas de dados da forma mais simples e didática possível para testar meu conhecimento sobre o assunto e, ajudar alguém a entender um pouco mais sobre isso, quem sabe.
+
+## 📜 Referências
+
+- [Primitive vs. non-primitive data structure](https://www.javatpoint.com/primitive-vs-non-primitive-data-structure)
+- [Learn DSA - Geeks for Geeks](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial)
+- [Learn DSA - Free Code Camp](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms)
 
 ## 📝 Licença
 
