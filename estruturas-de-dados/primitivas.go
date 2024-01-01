@@ -2,7 +2,7 @@ package estruturasdedados
 
 import "fmt"
 
-func todasAsEstruturasDeDadosPrimitivas() {
+func TodasAsEstruturasDeDadosPrimitivas() {
 	var inteiro int = -30
 	var pontoFlutuante float32 = 0.123
 	var booleano bool = 5 > 2
